@@ -1,5 +1,11 @@
 # PharmaDBMS
 DBMS system for pharmacy supply managment.
+
+Done By.
+KISHORE MURUGANANDAM
+SHAPAN MANIPAUL
+KISHEN 
+
 ![1q](https://user-images.githubusercontent.com/59000346/167176847-febf3e93-2f12-4eac-b95a-462122f21a8b.PNG)
 ![2q](https://user-images.githubusercontent.com/59000346/167176854-c79a4df8-1031-49a2-baa1-b056e60c1b62.PNG)
 ![3q](https://user-images.githubusercontent.com/59000346/167176856-69ae4428-9bcb-457c-acc0-d0f15e139c5d.PNG)
