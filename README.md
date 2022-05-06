@@ -2,8 +2,8 @@
 DBMS system for pharmacy supply managment.
 
 Done By.
-KISHORE MURUGANANDAM
-SHAPAN MANIPAUL
+KISHORE MURUGANANDAM,
+SHAPAN MANIPAUL,
 KISHEN 
 
 ![1q](https://user-images.githubusercontent.com/59000346/167176847-febf3e93-2f12-4eac-b95a-462122f21a8b.PNG)
